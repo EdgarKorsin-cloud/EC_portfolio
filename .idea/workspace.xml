@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fcb2a331-1e19-4d84-a5b4-147671fbd5e1" name="Changes" comment="Added cards and requirements for live service">
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/requirements.txt" beforeDir="false" />
+    <list default="true" id="fcb2a331-1e19-4d84-a5b4-147671fbd5e1" name="Changes" comment="Finish cards for main projects">
+      <change beforePath="$PROJECT_DIR$/html5up-forty.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html5up-forty/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html5up-forty/README.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,61 +32,61 @@
 }</component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="3.673937159979618E-83" />
-      <entry key="S2" value="5.7353155702591005E-21" />
-      <entry key="S5" value="2.6329603376925917E-8" />
-      <entry key="S10" value="5.715171546227772E-4" />
-      <entry key="S30" value="0.597491728006518" />
-      <entry key="S60" value="3.883051383065473" />
-      <entry key="M2" value="11.412154131276184" />
-      <entry key="M5" value="25.064777621277802" />
-      <entry key="M10" value="35.41246477660531" />
-      <entry key="M15" value="45.51943138283367" />
-      <entry key="M30" value="88.25903139437342" />
-      <entry key="H1" value="163.5252090931025" />
-      <entry key="H2" value="240.41438056667448" />
-      <entry key="H4" value="296.6509063713461" />
-      <entry key="D1" value="356.366978469622" />
-      <entry key="W1" value="368.0146234485394" />
+      <entry key="MS100" value="1.1988841209387298" />
+      <entry key="MS500" value="1.7239690861897796" />
+      <entry key="S2" value="1.9224227498856155" />
+      <entry key="S5" value="1.9682154382503532" />
+      <entry key="S10" value="1.9840931697460225" />
+      <entry key="S30" value="2.168500184384789" />
+      <entry key="S60" value="3.1736671112856976" />
+      <entry key="M2" value="5.741623507993027" />
+      <entry key="M5" value="14.561475843648829" />
+      <entry key="M10" value="27.994187462850242" />
+      <entry key="M15" value="39.937603773150315" />
+      <entry key="M30" value="81.92436643109049" />
+      <entry key="H1" value="158.14823938006853" />
+      <entry key="H2" value="240.82290686488471" />
+      <entry key="H4" value="303.6537944946039" />
+      <entry key="D1" value="372.13928225057714" />
+      <entry key="W1" value="385.68529989848474" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000000000000002" />
-      <entry key="S2" value="1.0001320617235148" />
-      <entry key="S5" value="1.0280747485994333" />
-      <entry key="S10" value="1.1683149213370059" />
-      <entry key="S30" value="1.693865004319671" />
-      <entry key="S60" value="2.2753570629439177" />
-      <entry key="M2" value="2.8934781604064113" />
-      <entry key="M5" value="3.4774962216624026" />
-      <entry key="M10" value="3.769680814804284" />
-      <entry key="M15" value="4.011620571844505" />
-      <entry key="M30" value="4.816099252093807" />
-      <entry key="H1" value="6.0137465124662635" />
-      <entry key="H2" value="7.152712075628228" />
-      <entry key="H4" value="7.961828050598241" />
-      <entry key="D1" value="8.808146325563435" />
-      <entry key="W1" value="8.972087106588315" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="2.503331792720637E-116" />
+      <entry key="S5" value="5.90757329022321E-47" />
+      <entry key="S10" value="8.85629626668063E-24" />
+      <entry key="S30" value="3.3274346374282606E-8" />
+      <entry key="S60" value="3.1890764268717095E-4" />
+      <entry key="M2" value="0.03425530929235561" />
+      <entry key="M5" value="0.589643805696642" />
+      <entry key="M10" value="1.5522658969466883" />
+      <entry key="M15" value="2.22038119741131" />
+      <entry key="M30" value="3.583020344278801" />
+      <entry key="H1" value="5.187069187679397" />
+      <entry key="H2" value="6.6429227908642385" />
+      <entry key="H4" value="7.6728555943728844" />
+      <entry key="D1" value="8.754040654921837" />
+      <entry key="W1" value="8.964193056590117" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.002338825594958845" />
-      <entry key="MS500" value="0.2977142123412421" />
-      <entry key="S2" value="0.7387609047617033" />
-      <entry key="S5" value="0.9101720582329346" />
-      <entry key="S10" value="1.0982390547380982" />
-      <entry key="S30" value="2.2462149359949266" />
-      <entry key="S60" value="6.112914924793762" />
-      <entry key="M2" value="14.265539488269875" />
-      <entry key="M5" value="28.517283741290687" />
-      <entry key="M10" value="39.16700003374655" />
-      <entry key="M15" value="49.519417112624886" />
-      <entry key="M30" value="93.06602045748942" />
-      <entry key="H1" value="169.5312474832193" />
-      <entry key="H2" value="247.5615065355142" />
-      <entry key="H4" value="304.60927909784203" />
-      <entry key="D1" value="365.1744281026696" />
-      <entry key="W1" value="376.9866076067657" />
+      <entry key="MS100" value="0.7535066872609143" />
+      <entry key="MS500" value="1.5710552360235888" />
+      <entry key="S2" value="1.8782975516191938" />
+      <entry key="S5" value="1.950018951127243" />
+      <entry key="S10" value="1.9748988147169324" />
+      <entry key="S30" value="2.1643220973667905" />
+      <entry key="S60" value="3.168913842364066" />
+      <entry key="M2" value="5.77013560558629" />
+      <entry key="M5" value="15.143392221930865" />
+      <entry key="M10" value="29.53813335523631" />
+      <entry key="M15" value="42.150070279479294" />
+      <entry key="M30" value="85.49982554647555" />
+      <entry key="H1" value="163.32825613545148" />
+      <entry key="H2" value="247.4604366178943" />
+      <entry key="H4" value="311.3232168539331" />
+      <entry key="D1" value="380.8926131619758" />
+      <entry key="W1" value="394.6493876187805" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -170,7 +171,7 @@
       <workItem from="1788364529480" duration="4465000" />
       <workItem from="1788479119330" duration="47000" />
       <workItem from="1788990337883" duration="707000" />
-      <workItem from="1788991857909" duration="4272000" />
+      <workItem from="1788991857909" duration="4961000" />
     </task>
     <task id="LOCAL-00001" summary="Create Flask app&#10;Import template for Index&#10;Update Banner and first card to Blog site&#10;add gitignore">
       <option name="closed" value="true" />
@@ -212,7 +213,23 @@
       <option name="project" value="LOCAL" />
       <updated>1788995461951</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Finish cards for main projects">
+      <option name="closed" value="true" />
+      <created>1788996520334</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1788996520334</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Finish cards for main projects">
+      <option name="closed" value="true" />
+      <created>1788996595891</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1788996595891</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -222,9 +239,10 @@
     <MESSAGE value="Create Flask app&#10;Import template for Index&#10;Update Banner and first card to Blog site&#10;add gitignore" />
     <MESSAGE value="Add BT Tracker card and img" />
     <MESSAGE value="Added cards and requirements for live service" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added cards and requirements for live service" />
+    <MESSAGE value="Finish cards for main projects" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finish cards for main projects" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/portfolio$main.coverage" NAME="main Coverage Results" MODIFIED="1788996422180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/portfolio$main.coverage" NAME="main Coverage Results" MODIFIED="1788996878741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
 </project>
