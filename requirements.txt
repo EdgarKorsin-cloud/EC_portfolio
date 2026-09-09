@@ -1,6 +1,6 @@
 # Tested on Python 3.13.1
 # In the terminal use:
-#    pip install -r ./requirements_3.13.txt
+#    pip install -r ./requirements.txt
 #
 Bootstrap_Flask==2.5.0
 Flask_CKEditor==1.0.0
