@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fcb2a331-1e19-4d84-a5b4-147671fbd5e1" name="Changes" comment="Create Flask app&#10;Import template for Index&#10;Update Banner and first card to Blog site&#10;add gitignore">
+    <list default="true" id="fcb2a331-1e19-4d84-a5b4-147671fbd5e1" name="Changes" comment="Add BT Tracker card and img">
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,107 +18,107 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "EdgarKorsin-cloud"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;EdgarKorsin-cloud&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/EdgarKorsin-cloud/portfolio",
-    "accountId": "14f39a96-5d3f-4d7b-9b24-edc0bbdcd233"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/EdgarKorsin-cloud/portfolio&quot;,
+    &quot;accountId&quot;: &quot;14f39a96-5d3f-4d7b-9b24-edc0bbdcd233&quot;
   }
-}]]></component>
+}</component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0001194614415059" />
-      <entry key="S5" value="1.0723155880643693" />
-      <entry key="S10" value="1.800888564098266" />
-      <entry key="S30" value="5.960979673949297" />
-      <entry key="S60" value="9.483867397852269" />
-      <entry key="M2" value="15.740274198156895" />
-      <entry key="M5" value="40.22937001446981" />
-      <entry key="M10" value="73.41876246287227" />
-      <entry key="M15" value="96.38613114664716" />
-      <entry key="M30" value="136.6080685795008" />
-      <entry key="H1" value="170.36496265348623" />
-      <entry key="H2" value="193.28664427403982" />
-      <entry key="H4" value="206.81271535068157" />
-      <entry key="D1" value="219.3429533351997" />
-      <entry key="W1" value="221.61719294942137" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="2.7168971841848014E-84" />
+      <entry key="S2" value="1.2838618705334657E-21" />
+      <entry key="S5" value="4.3995405041787275E-9" />
+      <entry key="S10" value="6.632912702229928E-5" />
+      <entry key="S30" value="0.04449392608076902" />
+      <entry key="S60" value="0.6356058805912966" />
+      <entry key="M2" value="6.208777004351357" />
+      <entry key="M5" value="36.93766217524335" />
+      <entry key="M10" value="83.70510615072364" />
+      <entry key="M15" value="118.540081083578" />
+      <entry key="M30" value="181.67418615913695" />
+      <entry key="H1" value="236.09728432915983" />
+      <entry key="H2" value="273.8194593679538" />
+      <entry key="H4" value="296.3856584864739" />
+      <entry key="D1" value="317.49747378661976" />
+      <entry key="W1" value="321.350753700596" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="2.8832799025175465E-157" />
-      <entry key="S5" value="2.4207766515472958E-63" />
-      <entry key="S10" value="4.9201388715637833E-32" />
-      <entry key="S30" value="3.6643120744496324E-11" />
-      <entry key="S60" value="6.053356155437382E-6" />
-      <entry key="M2" value="0.0024603594126607286" />
-      <entry key="M5" value="0.09081023828463389" />
-      <entry key="M10" value="0.3197768773607944" />
-      <entry key="M15" value="0.5201641269876283" />
-      <entry key="M30" value="0.9369726584115565" />
-      <entry key="H1" value="1.3352337949844189" />
-      <entry key="H2" value="1.6235479512698152" />
-      <entry key="H4" value="1.799004596986023" />
-      <entry key="D1" value="1.9645543392181328" />
-      <entry key="W1" value="1.9948862273201198" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000236467264088" />
+      <entry key="S2" value="1.0697337076453102" />
+      <entry key="S5" value="1.344649076968218" />
+      <entry key="S10" value="1.5871845142395857" />
+      <entry key="S30" value="1.8861440416317792" />
+      <entry key="S60" value="2.135997923467855" />
+      <entry key="M2" value="2.426652249897733" />
+      <entry key="M5" value="2.735657574583069" />
+      <entry key="M10" value="2.976112094148207" />
+      <entry key="M15" value="3.176563844950288" />
+      <entry key="M30" value="3.633216945893" />
+      <entry key="H1" value="4.1155496824313476" />
+      <entry key="H2" value="4.488157132119207" />
+      <entry key="H4" value="4.7233660611179165" />
+      <entry key="D1" value="4.950681426663716" />
+      <entry key="W1" value="4.992870987738531" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9460576467255959" />
-      <entry key="MS500" value="0.9889709163809315" />
-      <entry key="S2" value="0.9973481797645456" />
-      <entry key="S5" value="1.0707572007312927" />
-      <entry key="S10" value="1.798265722528392" />
-      <entry key="S30" value="5.954579098587423" />
-      <entry key="S60" value="9.47552355379102" />
-      <entry key="M2" value="15.73120167921709" />
-      <entry key="M5" value="40.305544702024456" />
-      <entry key="M10" value="73.7248591700275" />
-      <entry key="M15" value="96.89365223763218" />
-      <entry key="M30" value="137.53478554991764" />
-      <entry key="H1" value="171.69307223486885" />
-      <entry key="H2" value="194.9058874589331" />
-      <entry key="H4" value="208.6093388254429" />
-      <entry key="D1" value="221.3070746019706" />
-      <entry key="W1" value="223.6120163580023" />
+      <entry key="MS100" value="2.2003185122334708E-4" />
+      <entry key="MS500" value="0.18557206971293594" />
+      <entry key="S2" value="0.7070636543979584" />
+      <entry key="S5" value="1.14845097089988" />
+      <entry key="S10" value="1.4702767137047366" />
+      <entry key="S30" value="1.883159142182674" />
+      <entry key="S60" value="2.741975944647997" />
+      <entry key="M2" value="8.612374348463284" />
+      <entry key="M5" value="39.65152632685225" />
+      <entry key="M10" value="86.66138450427479" />
+      <entry key="M15" value="121.69869968018774" />
+      <entry key="M30" value="185.29337748819728" />
+      <entry key="H1" value="240.2032074658626" />
+      <entry key="H2" value="278.30179537201457" />
+      <entry key="H4" value="301.1057956077451" />
+      <entry key="D1" value="322.44756572562227" />
+      <entry key="W1" value="326.3435391140031" />
     </decayedShown>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3ImKupvDPyuyGMI5BiM8tv7I3uH" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "master",
-    "junie.onboarding.icon.badge.shown": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.jshint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.jshint": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "to.speed.mode.migration.done": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\edgar\PycharmProjects\portfolio\static" />
@@ -165,7 +168,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1788364528470</updated>
-      <workItem from="1788364529480" duration="3893000" />
+      <workItem from="1788364529480" duration="4465000" />
+      <workItem from="1788479119330" duration="47000" />
+      <workItem from="1788990337883" duration="707000" />
+      <workItem from="1788991857909" duration="3201000" />
     </task>
     <task id="LOCAL-00001" summary="Create Flask app&#10;Import template for Index&#10;Update Banner and first card to Blog site&#10;add gitignore">
       <option name="closed" value="true" />
@@ -183,7 +189,15 @@
       <option name="project" value="LOCAL" />
       <updated>1788368136710</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add BT Tracker card and img">
+      <option name="closed" value="true" />
+      <created>1788368498332</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1788368498332</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,9 +205,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Create Flask app&#10;Import template for Index&#10;Update Banner and first card to Blog site&#10;add gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create Flask app&#10;Import template for Index&#10;Update Banner and first card to Blog site&#10;add gitignore" />
+    <MESSAGE value="Add BT Tracker card and img" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add BT Tracker card and img" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/portfolio$main.coverage" NAME="main Coverage Results" MODIFIED="1788368357150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/portfolio$main.coverage" NAME="main Coverage Results" MODIFIED="1788995307344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
 </project>
